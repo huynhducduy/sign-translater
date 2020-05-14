@@ -6,3 +6,5 @@ Translate from sign language to speech, built with Arduino
 
 
 More image can be found here: [Imgur](https://imgur.com/a/v0tmfRM)
+
+Document about the project (Vietnamese) can be found here: [Docs](https://github.com/huynhducduy/sign-translater/blob/master/document.pdf)
